@@ -1,0 +1,13 @@
+---
+title: "Ruth.Holloway"
+author: "Ruth Holloway"
+date: "8/11/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## First github assignment
+My name is Ruth and my favorite dessert is cheesecake.
